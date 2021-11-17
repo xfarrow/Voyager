@@ -13,3 +13,6 @@ Per compilare il programma è necessario compilare Controller.java
 
 ## Stadio di sviluppo 
 Il progetto è stato consegnato e valutato pertanto lo stadio di sviluppo è considerato terminato. Qualsiasi pull request o issue verranno ignorati.
+
+## Demo
+<img src="/demo_images/demo.png" alt="Demo">
